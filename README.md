@@ -1,4 +1,4 @@
-# 🚀 Code Explain API
+# Code Explain API
 
 An AI-powered backend service that analyzes code and returns structured insights such as explanation, complexity, concepts, and improvements.
 
@@ -6,25 +6,25 @@ Built using **FastAPI + OpenAI API**, this project transforms raw code into mean
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
-👉 https://your-app.onrender.com/docs
-
----
-
-## 🧠 Features
-
-* ✅ Explain code in simple terms
-* ✅ Analyze time & space complexity
-* ✅ Extract key concepts used
-* ✅ Suggest improvements
-* ✅ Structured JSON output
-* ✅ FastAPI backend with clean design
-* ✅ Deployed and publicly accessible
+https://code-explain-api.onrender.com
 
 ---
 
-## 🛠️ Tech Stack
+##  Features
+
+*  Explain code in simple terms
+*  Analyze time & space complexity
+*  Extract key concepts used
+*  Suggest improvements
+*  Structured JSON output
+*  FastAPI backend with clean design
+*  Deployed and publicly accessible
+
+---
+
+## Tech Stack
 
 * **Backend:** FastAPI
 * **AI Integration:** OpenAI API
@@ -34,7 +34,7 @@ Built using **FastAPI + OpenAI API**, this project transforms raw code into mean
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```id="o3y9qb"
 code-explain-api/
@@ -48,9 +48,9 @@ code-explain-api/
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints
 
-### 🔹 Health Check
+### Health Check
 
 ```id="7mcb4r"
 GET /
@@ -58,7 +58,7 @@ GET /
 
 ---
 
-### 🔹 Explain Code
+### Explain Code
 
 ```id="4ogd9g"
 POST /explain
@@ -147,7 +147,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🚧 Deployment (Render)
+## Deployment (Render)
 
 * Push code to GitHub
 * Create Web Service on Render
@@ -171,7 +171,7 @@ bash start.sh
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Integrating external APIs into backend systems
 * Handling unstructured AI responses
@@ -181,7 +181,7 @@ bash start.sh
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Language detection
 * Code complexity visualization
